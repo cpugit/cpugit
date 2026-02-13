@@ -22,15 +22,17 @@
 
 #### Projects
 - [Kapusta — Financial Web Application (Team Project).](https://docs.google.com/spreadsheets/d/1i_Kz8J2-cOEprkzZKkyyk7i3UqjhKo5oSR9cl9qr6W8/edit?gid=1752727054#gid=1752727054)
-- [Etsy - e-commerce company.](https://drive.google.com/drive/folders/1RXCPW9NZ8Vcv1Nw0jViIkFRe6BDz9-gg?usp=sharing)
+- [Etsy - e-commerce company.](https://github.com/cpugit/pet)
 
 ----------------------
 
 #### Test Documentation
 - [Postman Collections](https://www.postman.com/gswarriors)
-- [SQL Queries](https://github.com/cpugit/sql-crud)
-- [Bug-Reports](https://docs.google.com/spreadsheets/d/1C4ItuwTVhwUU9HERFnEhKvKyxFiRD-H-/edit?usp=drive_link&ouid=111561922053901071336&rtpof=true&sd=true)
-- [Test Cases](https://github.com/cpugit/pet/tree/main/test-cases)
+- [SQL Queries](https://github.com/potf/sql-crud/)
+- [Bug-Reports](https://github.com/cpugit/pet/tree/main/bug_reports)
+- [Test-Cases](https://github.com/cpugit/pet/tree/main/test_cases)
+- [Checklist](https://github.com/cpugit/pet/blob/main/checklists/Checklist.md)
+
 
 -----------------------
 
