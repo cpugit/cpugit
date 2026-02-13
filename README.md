@@ -28,8 +28,9 @@
 
 #### Test Documentation
 - [Postman Collections](https://www.postman.com/gswarriors)
-- [SQL Queries](https://github.com/potf/sql-crud/)
+- [SQL Queries](https://github.com/cpugit/sql-crud)
 - [Bug-Reports](https://docs.google.com/spreadsheets/d/1C4ItuwTVhwUU9HERFnEhKvKyxFiRD-H-/edit?usp=drive_link&ouid=111561922053901071336&rtpof=true&sd=true)
+- [Test Cases](https://github.com/cpugit/pet/tree/main/test-cases)
 
 -----------------------
 
