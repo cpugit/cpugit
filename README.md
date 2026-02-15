@@ -32,7 +32,7 @@
 - [Bug-Reports](https://github.com/cpugit/pet/tree/main/bug_reports)
 - [Test-Cases](https://github.com/cpugit/pet/tree/main/test_cases)
 - [Checklist](https://github.com/cpugit/pet/blob/main/checklists/Checklist.md)
-
+- [Traceability Matrix](https://github.com/cpugit/pet/blob/main/traceability_matrix/traceability_matrix.md)
 
 -----------------------
 
