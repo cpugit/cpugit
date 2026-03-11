@@ -40,7 +40,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dotdev/)
 [![Gmail](https://img.shields.io/badge/Gmail-090909?style=for-the-badge&logo=gmail&logoColor=white)](mailto:2698092@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/@romanmvp)
+[![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/@cpugit)
 
 -----------------------
 
