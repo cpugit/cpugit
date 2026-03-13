@@ -1,5 +1,3 @@
-![Header](https://github.com/cpugit/cpugit/blob/master/assets/linkedIn_banner.png)
-
 #### Junior QA Engineer with background in e-commerce product lifecycle management, data validation (XML, JSON, web parsing), and functional testing of integrations and automation tools. Skilled in cross-team collaboration and ensuring product quality across platforms.
 
 ---
@@ -27,12 +25,12 @@
 ----------------------
 
 #### Test Documentation
-- [Postman Collections](https://www.postman.com/gswarriors)
-- [SQL Queries](https://github.com/potf/sql-crud/)
-- [Bug-Reports](https://github.com/cpugit/pet/tree/main/bug_reports)
-- [Test-Cases](https://github.com/cpugit/pet/tree/main/test_cases)
-- [Checklist](https://github.com/cpugit/pet/blob/main/checklists/Checklist.md)
-- [Traceability Matrix](https://github.com/cpugit/pet/blob/main/traceability_matrix/traceability_matrix.md)
+
+| [Postman Collections](https://www.postman.com/gswarriors)
+ |  [Bug-Reports](https://github.com/cpugit/pet/tree/main/bug_reports)  | [SQL Queries](https://github.com/potf/sql-crud/) |  [Test-Cases](https://github.com/cpugit/pet/tree/main/test_cases) |  [Checklist](https://github.com/cpugit/pet/blob/main/checklists/Checklist.md)  | [Traceability Matrix](https://github.com/cpugit/pet/blob/main/traceability_matrix/traceability_matrix.md) |
+
+
+
 
 -----------------------
 
