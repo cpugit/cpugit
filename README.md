@@ -4,17 +4,20 @@
 
 #### Languages and Tools
 
-![Jira](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=Jira&logoColor=0052cc)
-![Postman](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=Postman&logoColor=orange)
-![Swagger](https://img.shields.io/badge/Swagger-090909?style=for-the-badge&logo=Swagger&logoColor=Swagger)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=fff)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=173647)
 ![GitHub](https://img.shields.io/badge/GitHub-090909?style=for-the-badge&logo=GitHub&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-090909?style=for-the-badge&logo=mysql&logoColor=blue)
 ![DEVTOOLS](https://img.shields.io/badge/DEVTOOLS-090909?style=for-the-badge&logo=googlechrome&logoColor=blue)
 ![Testrail](https://img.shields.io/badge/Testrail-090909?style=for-the-badge&logo=Testrail&logoColor=darkblue)
 ![html](https://img.shields.io/badge/html-090909?style=for-the-badge&logo=html5&logoColor=orange)
 ![css](https://img.shields.io/badge/css-090909?style=for-the-badge&logo=css&logoColor=blue)
-![Trello](https://img.shields.io/badge/Trello-090909?style=for-the-badge&logo=Trello&logoColor=blue)
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=fff)
 ![JSON](https://img.shields.io/badge/JSON-090909?style=for-the-badge&logo=JSON&logoColor=red)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Sublime Text](https://img.shields.io/badge/Sublime%20Text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
+
 
 -----------------------
 
