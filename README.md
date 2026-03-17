@@ -1,3 +1,5 @@
+![Header](https://github.com/cpugit/cpugit/blob/master/assets/linkedIn_banner.png)
+
 #### Junior QA Engineer with background in e-commerce product lifecycle management, data validation (XML, JSON, web parsing), and functional testing of integrations and automation tools. Skilled in cross-team collaboration and ensuring product quality across platforms.
 
 ---
