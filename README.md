@@ -5,18 +5,20 @@
 #### Languages and Tools
 
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=fff)
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=fff)
+![Testrail](https://img.shields.io/badge/Testrail-090909?style=for-the-badge&logo=Testrail&logoColor=darkblue)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=173647)
 ![GitHub](https://img.shields.io/badge/GitHub-090909?style=for-the-badge&logo=GitHub&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-090909?style=for-the-badge&logo=mysql&logoColor=blue)
 ![DEVTOOLS](https://img.shields.io/badge/DEVTOOLS-090909?style=for-the-badge&logo=googlechrome&logoColor=blue)
-![Testrail](https://img.shields.io/badge/Testrail-090909?style=for-the-badge&logo=Testrail&logoColor=darkblue)
-![html](https://img.shields.io/badge/html-090909?style=for-the-badge&logo=html5&logoColor=orange)
-![css](https://img.shields.io/badge/css-090909?style=for-the-badge&logo=css&logoColor=blue)
-![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=fff)
+![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-639?style=for-the-badge&logo=css&logoColor=fff)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-090909?style=for-the-badge&logo=JSON&logoColor=red)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Sublime Text](https://img.shields.io/badge/Sublime%20Text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 
 -----------------------
@@ -39,11 +41,11 @@
 
 #### Contacts
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dotdev/)
-[![Gmail](https://img.shields.io/badge/Gmail-090909?style=for-the-badge&logo=gmail&logoColor=white)](mailto:2698092@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/@cpugit)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/dotdev/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:2698092@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/@cpugit)
+
+
 
 -----------------------
 
-#### CV
-[Link to my CV](https://drive.google.com/file/d/1TMnLOtvTffeokCRlFFq-pldY7i9elLz9/view?usp=sharing)
