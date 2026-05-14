@@ -33,8 +33,19 @@
 
 #### Test Documentation
 
-| [Postman Collections](https://www.postman.com/gswarriors)
- |  [Bug-Reports](https://github.com/cpugit/pet/tree/main/bug_reports)  | [SQL Queries](https://github.com/potf/sql-crud/) |  [Test-Cases](https://github.com/cpugit/pet/tree/main/test_cases) |  [Checklist](https://github.com/cpugit/pet/blob/main/checklists/Checklist.md)  | [Traceability Matrix](https://github.com/cpugit/pet/blob/main/traceability_matrix/traceability_matrix.md) |
+| [Postman Collections](https://www.postman.com/gswarriors/workspace1/collection/y96pjbv/reqres-in-api-testing?action=share&creator=47293897) |
+
+| [API-testing-postman](https://github.com/cpugit/api-testing-postman/) |
+
+ |  [Bug-Reports](https://github.com/cpugit/pet/tree/main/bug_reports)  | 
+
+ | [SQL Queries](https://github.com/potf/sql-crud/) | 
+ 
+ | [Test-Cases](https://github.com/cpugit/pet/tree/main/test_cases) | 
+ 
+ | [Checklist](https://github.com/cpugit/pet/blob/main/checklists/Checklist.md) |  
+  
+  | [Traceability Matrix](https://github.com/cpugit/pet/blob/main/traceability_matrix/traceability_matrix.md) |
 
 
 
