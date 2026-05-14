@@ -37,7 +37,7 @@
 
 | [API-testing-postman](https://github.com/cpugit/api-testing-postman/) |
 
- |  [Bug-Reports](https://github.com/cpugit/pet/tree/main/bug_reports)  | 
+ |  [Bug-Reports](https://github.com/cpugit/pet/tree/main/bug-reports)  | 
 
  | [SQL Queries](https://github.com/potf/sql-crud/) | 
  
@@ -45,10 +45,7 @@
  
  | [Checklist](https://github.com/cpugit/pet/blob/main/checklists/Checklist.md) |  
   
-  | [Traceability Matrix](https://github.com/cpugit/pet/blob/main/traceability_matrix/traceability_matrix.md) |
-
-
-
+| [Traceability Matrix](https://github.com/cpugit/pet/blob/main/traceability_matrix/traceability_matrix.md) |
 
 -----------------------
 
