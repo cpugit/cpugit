@@ -1,7 +1,6 @@
 ![Header](https://github.com/cpugit/cpugit/blob/master/assets/linkedIn_banner.png)
 
 #### Junior QA Engineer with background in e-commerce product lifecycle management, data validation (XML, JSON, web parsing), and functional testing of integrations and automation tools. Skilled in cross-team collaboration and ensuring product quality across platforms.
-
 ---
 
 #### Languages and Tools
@@ -28,22 +27,19 @@
 #### Projects
 - [Kapusta — Financial Web Application (Team Project).](https://docs.google.com/spreadsheets/d/1i_Kz8J2-cOEprkzZKkyyk7i3UqjhKo5oSR9cl9qr6W8/edit?gid=1752727054#gid=1752727054)
 - [Etsy - e-commerce company.](https://github.com/cpugit/pet)
+- [Postman Collections](https://www.postman.com/gswarriors/workspace1/collection/y96pjbv/reqres-in-api-testing?action=share&creator=47293897)
+- [API-testing-postman](https://github.com/cpugit/api-testing-postman/)
+- [SQL Queries](https://github.com/potf/sql-crud/)
 
 ----------------------
 
 #### Test Documentation
 
-| [Postman Collections](https://www.postman.com/gswarriors/workspace1/collection/y96pjbv/reqres-in-api-testing?action=share&creator=47293897) |
-
-| [API-testing-postman](https://github.com/cpugit/api-testing-postman/) |
-
- |  [Bug-Reports](https://github.com/cpugit/pet/tree/main/bug-reports)  | 
-
- | [SQL Queries](https://github.com/potf/sql-crud/) | 
+|  [Bug-Reports](https://github.com/cpugit/pet/tree/main/bug-reports)  | 
  
- | [Test-Cases](https://github.com/cpugit/pet/tree/main/test_cases) | 
- 
- | [Checklist](https://github.com/cpugit/pet/blob/main/checklists/Checklist.md) |  
+| [Test-Cases](https://github.com/cpugit/pet/tree/main/test-cases) | 
+
+| [Checklist](https://github.com/cpugit/pet/blob/main/checklists/Checklist.md) |  
   
 | [Traceability Matrix](https://github.com/cpugit/pet/blob/main/traceability_matrix/traceability_matrix.md) |
 
@@ -54,7 +50,6 @@
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/dotdev/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:2698092@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/@cpugit)
-
 
 
 -----------------------
