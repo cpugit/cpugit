@@ -25,23 +25,24 @@
 -----------------------
 
 #### Projects
-- [Kapusta — Financial Web Application (Team Project).](https://docs.google.com/spreadsheets/d/1i_Kz8J2-cOEprkzZKkyyk7i3UqjhKo5oSR9cl9qr6W8/edit?gid=1752727054#gid=1752727054)
-- [Etsy - e-commerce company.](https://github.com/cpugit/pet)
-- [Postman Collections](https://www.postman.com/gswarriors/workspace1/collection/y96pjbv/reqres-in-api-testing?action=share&creator=47293897)
-- [API-testing-postman](https://github.com/cpugit/api-testing-postman/)
-- [SQL Queries](https://github.com/potf/sql-crud/)
 
+<pre>
+Project ....................... <a href="https://github.com/cpugit/pet">Etsy - e-commerce company</a>
+Project ....................... <a href="https://docs.google.com/spreadsheets/d/1i_Kz8J2-cOEprkzZKkyyk7i3UqjhKo5oSR9cl9qr6W8/edit?gid=1752727054#gid=1752727054">Kapusta - Financial Web Application (Team Project)</a> 
+Project ....................... <a href="https://www.postman.com/gswarriors/workspace1/collection/y96pjbv/reqres-in-api-testing?action=share&creator=47293897">Postman Collections</a>
+Project ....................... <a href="https://github.com/cpugit/api-testing-postman/">API-testing-postman</a>
+Project ....................... <a href="https://github.com/potf/sql-crud/">SQL Queries</a> 
+</pre>
 ----------------------
 
 #### Test Documentation
 
-|  [Bug-Reports](https://github.com/cpugit/pet/tree/main/bug-reports)  | 
- 
-| [Test-Cases](https://github.com/cpugit/pet/tree/main/test-cases) | 
-
-| [Checklist](https://github.com/cpugit/pet/blob/main/checklists/Checklist.md) |  
-  
-| [Traceability Matrix](https://github.com/cpugit/pet/blob/main/traceability_matrix/traceability_matrix.md) |
+<pre>
+Document ...................... <a href="https://github.com/cpugit/pet/tree/main/bug-reports">Bug-Reports</a>
+Document ...................... <a href="https://github.com/cpugit/pet/tree/main/test-cases">Test-Cases</a>
+Document ...................... <a href="https://github.com/cpugit/pet/blob/main/checklists/Checklist.md">Checklist</a>
+Document ...................... <a href="https://github.com/cpugit/pet/blob/main/traceability_matrix/traceability_matrix.md">Traceability Matrix</a>
+</pre>
 
 -----------------------
 
